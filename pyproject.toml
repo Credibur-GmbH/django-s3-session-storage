@@ -1,6 +1,6 @@
 [project]
 name = "django-s3-session-storage"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Django S3 storage backend that supports dependency injection and shared boto3.Session reuse."
 readme = "README.md"
 requires-python = ">=3.9"
