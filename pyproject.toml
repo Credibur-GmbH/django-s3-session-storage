@@ -6,8 +6,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-    # TODO : Update with your actual name and email
-    { name = "Your Name", email = "you@example.com" }
+    { name = "Kim Kachegarov", email = "kim.kachegarov@credibur.com> }
 ]
 keywords = ["django", "storages", "aws", "s3", "boto3", "session", "dependency-injection"]
 classifiers = [
@@ -28,10 +27,9 @@ dependencies = [
 ]
 
 [project.urls]
-# TODO : Update these URLs with your actual project links
-Homepage = "https://github.com/yourname/django-s3-session-storage"
-Repository = "https://github.com/yourname/django-s3-session-storage"
-Documentation = "https://github.com/yourname/django-s3-session-storage#readme"
+Homepage = "https://github.com/Credibur-GmbH/django-s3-session-storage"
+Repository = "https://github.com/Credibur-GmbH/django-s3-session-storage"
+Documentation = "https://github.com/Credibur-GmbH/django-s3-session-storage#readme"
 
 [build-system]
 requires = ["setuptools>=68.0"]
