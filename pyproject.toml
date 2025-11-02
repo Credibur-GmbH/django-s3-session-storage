@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-    { name = "Kim Kachegarov", email = "kim.kachegarov@credibur.com> }
+    { name = "Kim Kachegarov", email = "kim.kachegarov@credibur.com" }
 ]
 keywords = ["django", "storages", "aws", "s3", "boto3", "session", "dependency-injection"]
 classifiers = [
